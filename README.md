@@ -1,24 +1,16 @@
-# README
+# TheHackingPinterest
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. First run ```Bundle install```
+2. run ```rails db:seed```
+3. run ```rails console```
 
-Things you may want to cover:
+4.by exemple writte ```tp User.all```
 
-* Ruby version
+# RESUME
 
-* System dependencies
+Tu vas encore faire un site d'éducation en ligne. Dans ce site il y aura des élèves qui peuvent s'inscrire à un seul cours. Un cours pourra avoir plusieurs élèves.
+# Contributeur
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```Malik Arhes ; Slack: @Malik```
+```Amine Bouraghda ; Slack: A42```
+```Lorenzo Chahid; Slack: @Lorenzo```
